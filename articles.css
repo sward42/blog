@@ -1,21 +1,56 @@
 .art1 {
-
+	background-color: #9dc462;
+	color: white;
+	font-size: 1.2em;
+	font-family: "Arial";
+	line-height: 1em;
+	border: 2px solid #2f4e00;
+	border-radius: 5%;
+	padding: 10px;
 }
 
 .art2 {
-
+	background-color: #ff7d19;
+	color: lightGrey;
+	font-size: .85em;
+	font-family: "Tahoma", "Geneva", sans-serif;
+	line-height: .85em;
+	border: 2px solid #8d3d00;
+	border-radius: 2%;
+	padding: 8px;
 }
 
 .art3 {
-
+	background-color: #31c7c7;
+	color: black;
+	font-size: 1.8em;
+	font-family: "Palatino Linotype", "Book Antigua", serif;
+	line-height: 2em;
+	border: 1px solid #007f7f;
+	border-radius: 15%;
+	padding: 35px;
 }
 
 .art4 {
-
+	background-color: #4f7514;
+	color: #2f4e00;
+	font-size: 1.4em;
+	font-family: "Georgia", serif;
+	line-height: 1.2em;
+	border: 2px solid #cceb9d;
+	border-radius: 10%;
+	padding: 20px;
 }
 
 .art5 {
-	
+	background-color: #ff9a4c;
+	color: #8d3d00;
+	font-size: .95em;
+	font-family: "Impact", "Charcoal", sans-serif;
+	line-height: 1.5em;
+	border: 2px solid #b85000;
+	border-radius: 25%;
+	padding: 40px;
 }
 
 
